@@ -9,6 +9,7 @@ The Blind 75 LeetCode list covers a wide range of algorithms and data structures
 ### Array
 - [Two Sum](Array/Python/TwoSum.py)
 - [Best Time to Buy and Sell Stock](Array/Python/BuySellStocks.py)
+- [Contains Duplicate](Array/Python/ContainsDuplicate.py)
 
 ### Binary
 
